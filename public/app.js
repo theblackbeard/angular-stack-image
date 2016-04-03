@@ -17,5 +17,5 @@ var app = angular.module('articleApp', ['newArticleCtrl', 'galleryCtrl' , 'detai
 
 		.otherwise({redirectTo: '/new'});
 
-		filepickerProvider.setKey('AGfFMk3H3T4KzI9Rr1NAJz')
+		filepickerProvider.setKey('')
 	})
