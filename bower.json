@@ -1,0 +1,27 @@
+{
+  "name": "stack-image-nodejs",
+  "description": "Stack Image",
+  "main": "server.js",
+  "authors": [
+    "BlackBeard"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "es6",
+    "globals"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-filepicker": "^1.1.4",
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.3",
+    "angular-route": "^1.5.3"
+  }
+}

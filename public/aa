@@ -1,0 +1,12 @@
+<html>
+<head>
+	<title>File Picker</title>
+	<script type="text/javascript" src="//api.filestackapi.com/filestack.js"></script>
+
+</head>
+<body>
+	<input type="filepicker" data-fp-apikey="AGfFMk3H3T4KzI9Rr1NAJz"
+onchange="alert(event.fpfile.url)">
+
+</body>
+</html>
